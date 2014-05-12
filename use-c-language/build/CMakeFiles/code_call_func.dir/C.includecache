@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ndk/dev/github/1ghl/2014y/use-c-language/usage_trancode_call_func.c
+stdio.h
+-
+stdlib.h
+-
+

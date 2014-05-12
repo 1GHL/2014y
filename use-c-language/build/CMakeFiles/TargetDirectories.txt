@@ -1,0 +1,1 @@
+/home/ndk/dev/github/1ghl/2014y/use-c-language/build/CMakeFiles/code_call_func.dir

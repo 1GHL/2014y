@@ -1,0 +1,1 @@
+/usr/bin/cc  -g    CMakeFiles/code_call_func.dir/usage_trancode_call_func.c.o  -o code_call_func -rdynamic 
